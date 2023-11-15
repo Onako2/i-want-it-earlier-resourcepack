@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "description": "Speculating is fun!\n1.21+",
+        "pack_format": 21,
+        "supported_formats": {
+            "min_inclusive": 20,
+            "max_inclusive": 21
+        }
+    }
+}
